@@ -1,1 +1,5 @@
-# User-account-davaleba
+User Account davaleba
+
+ეს არის პროგრამა რომელშიც შეგვიძლია user-ის აუტორიზაცია
+
+
